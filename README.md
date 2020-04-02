@@ -30,7 +30,7 @@ Seminarium magisterskie MIMUW 2019/2020
 * 2020-04-16 	Michał Kukuła
 * 2020-04-23 	Jakub Skorupski
 * 2020-04-30 	Kamil Tokarski
-* 2020-05-07 	
+* 2020-05-07 	Piotr Piękos
 * 2020-05-14 	
 * 2020-05-21 	Mieczysław Krawiarz
 * 2020-05-28 	Zuzanna Kwiatkowska
